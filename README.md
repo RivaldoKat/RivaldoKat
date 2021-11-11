@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RivaldoKat
+- 👋 Hi, I’m Rivaldo
 - 👀 I’m interested in software programming and web development
-- 🌱 I’m currently learning django with python, javascript, rust & ruby on rails
+- 🌱 I’m currently learning django with python, javascript
 - 📫 How to reach me? via contact(076-619-7028/ 068-543-1418)
