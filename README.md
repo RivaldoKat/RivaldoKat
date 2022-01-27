@@ -2,5 +2,5 @@
 - 👀 I’m interested in software programming and web development
 - Languages
 -   Python, C++, Java, Javascript
-- 🌱 I’m currently learning django with python, javascript
+- 🌱 I’m currently learning django with python
 - 📫 How to reach me? via contact(+27 68-543-1418)
