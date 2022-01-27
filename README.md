@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Rivaldo
 - 👀 I’m interested in software programming and web development
+- Languages
+-   Python, C++, Java, Javascript
 - 🌱 I’m currently learning django with python, javascript
-- 📫 How to reach me? via contact(076-619-7028/ 068-543-1418)
+- 📫 How to reach me? via contact(+27 68-543-1418)
